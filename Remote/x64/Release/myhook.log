@@ -1,0 +1,10 @@
+﻿  myhook.cpp
+myhook.cpp(26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+myhook.cpp(80): warning C4312: “类型转换”: 从“__unaligned DWORD”转换到更大的“PIMAGE_THUNK_DATA”
+myhook.cpp(81): warning C4312: “类型转换”: 从“__unaligned DWORD”转换到更大的“PIMAGE_THUNK_DATA”
+myhook.cpp(97): warning C4311: “类型转换”: 从“PIMAGE_IMPORT_BY_NAME”到“DWORD”的指针截断
+myhook.cpp(97): warning C4302: “类型转换”: 从“PIMAGE_IMPORT_BY_NAME”到“DWORD”截断
+  正在生成代码
+  All 236 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  myhook.vcxproj -> D:\Project\Remote\x64\Release\myhook.dll
